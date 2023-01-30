@@ -1,0 +1,8 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+09:36:59	67/67	---M--	200	added ('OK')	text/plain	etag:%22fa1ded1ed7c11438a9b0385b1e112850%22	https://www.dragon3.io/robots.txt		(from )
+09:37:00	798/798	---M--	200	added ('OK')	text/html	etag:%223ed62374bfb97417e7080ec98aa6c0be%22	https://www.dragon3.io/	/Users/oneilbenjamin/websites/dragz/index-2.html	(from )
+09:37:02	67646/67646	---MCZ	200	added ('OK')	image/vnd.microsoft.icon	etag:W/%22f3b963c485929c92b46ea0ba433b78c1%22	https://www.dragon3.io/favicon.ico	/Users/oneilbenjamin/websites/dragz/favicon.ico	(from https://www.dragon3.io/)
+09:37:02	15225/15225	---M--	200	added ('OK')	image/png	etag:%22a7ad5d660e4306d2353cf60ceaf2bf33%22	https://www.dragon3.io/logo192.png	/Users/oneilbenjamin/websites/dragz/logo192.png	(from https://www.dragon3.io/)
+09:37:02	491/491	---M--	200	added ('OK')	application/json	etag:%2285c559047b845b3429fe8c29dc8f1d56%22	https://www.dragon3.io/manifest.json	/Users/oneilbenjamin/websites/dragz/manifest.json	(from https://www.dragon3.io/)
+09:37:06	104733/104733	---MCZ	200	added ('OK')	text/css	etag:W/%228604b916e21679c90de0b09890c5bcea%22	https://www.dragon3.io/static/css/main.d3795a71.css	/Users/oneilbenjamin/websites/dragz/static/css/main.d3795a71.css	(from https://www.dragon3.io/)
+09:37:06	1022379/1022379	---MCZ	200	added ('OK')	application/javascript	etag:W/%225ae4370b85ceaa95959b0e4ed4764abc%22	https://www.dragon3.io/static/js/main.a6b93c71.js	/Users/oneilbenjamin/websites/dragz/static/js/main.a6b93c71.js	(from https://www.dragon3.io/)
